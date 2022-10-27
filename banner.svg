@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <marquee direction="down" scrollamount="10" height="250px" behavior="alternate">
+            <marquee direction="right" scrollamount="15" behavior="alternate">
+              <p style="font-family: 'Segoe UI', sans-serif;">sample text</p>
+            </marquee>
+          </marquee>
+        </div>
+    </foreignObject>
+</svg>
